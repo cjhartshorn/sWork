@@ -1,2 +1,2 @@
 # sWork
-examples of my programming work that I have gained form school
+School Work that shows examples of programming and developing.
